@@ -3,7 +3,7 @@ layout: page
 title: Commercial Real Estate
 ---
 
-<ul class="cre_posts">
+<ul class="posts">
   {% for post in site.posts %}
 
     {% unless post.next %}

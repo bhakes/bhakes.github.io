@@ -14,7 +14,6 @@ menu:
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
 
-
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://www.github.com/bhakes'}
