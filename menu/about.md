@@ -13,6 +13,6 @@ In 2017, Ben founded Pareto Real Asset Advisors, a real assets consultancy focus
 
 Prior to starting Pareto, Ben was an Assistant Portfolio Manager at [Harrison Street Real Estate Capital](https://www.harrisonst.com). Ben severed in a variety of Asset Management and Portfolio Management roles during six years at Harrison Street. Most notably, Ben was on the founding team of the firm's open-ended core fund and helped to grow the fund from $100M to $5B in AUM in 5 years.
 
-### Want to get in touch?
+### Contact
 
 The best place to reach me is [on twitter](https://twitter.com/benhakes). You can also [shoot me an email](mailto:ben@paretoadvisors.com).
