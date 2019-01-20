@@ -15,4 +15,4 @@ Prior to starting Pareto, Ben was an Assistant Portfolio Manager at [Harrison St
 
 ### Want to get in touch?
 
-The best place to reach me is [on twitter](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=bhakes). You can also [shoot me an email](mailto:ben@paretoadvisors.com).
+The best place to reach me is [on twitter](https://twitter.com/benhakes). You can also [shoot me an email](mailto:ben@paretoadvisors.com).
