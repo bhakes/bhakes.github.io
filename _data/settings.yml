@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'About', path: 'menu', url: 'about.html'}
-- {name: 'Writing', path: 'menu', url: 'writing.html'}
 - {name: 'Swift', path: 'menu', url: 'swift.html'}
 - {name: 'Commerical RE', path: 'menu', url: 'commerical_real_estate.html'}
+- {name: 'Reading', path: 'menu', url: 'reading.html'}
+- {name: 'About', path: 'menu', url: 'about.html'}
 # - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
 
