@@ -3,16 +3,16 @@ layout: page
 title: Welcome to my Personal Site!
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+### About Ben
 
-### Getting Started
+Ben is Midwest-based iOS engineer and a former real estate private equity portfolio manager. Ben is constantly learning and has a wide-ranging skill set that includes managerial experience, software development skills, capital markets expertise, in addition to a significant background in commercial real estate.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+Ben is currently a full-time software engineering student at [Lambda School](https://lambdaschool.com). At Lambda School, Ben is focused on iOS Development and eventually wants to focus on building IoT and augmented reality applications. Ben has experience with Swift, Java, Python, Git, Github (@bhakes), Xcode, and general Object Oriented Design.
 
-### Example Content
+In 2017, Ben founded Pareto Real Asset Advisors, a real assets consultancy focused on real estate and energy markets. In his role at Pareto, Ben acted as an independent consulted for real estate private equity and energy development clients.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+Prior to starting Pareto, Ben was an Assistant Portfolio Manager at [Harrison Street Real Estate Capital](https://www.harrisonst.com). Ben severed in a variety of Asset Management and Portfolio Management roles during six years at Harrison Street. Most notably, Ben was on the founding team of the firm's open-ended core fund and helped to grow the fund from $100M to $5B in AUM in 5 years.
 
-### Questions?
+### Want to get in touch?
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+The best place to reach me is [on twitter](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=bhakes). You can also [shoot me an email](mailto:ben@paretoadvisors.com).
