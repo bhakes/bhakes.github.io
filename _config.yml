@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Ben Hakes'
-description:	       'iOS Developer'
+title:		           'Mettabits by Ben'
+description:	       'a blog by iOS Developer Ben Hakes'
 author:              'Ben Hakes'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
