@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: cards.jpg
 ---
 
-# Markdown Support
+# Notes From Day 3 \@Lambda School
 
 Today will be my third day at Lambda school. I am enjoying things so far. I really like the interactive nature of the classes, especially compared to my classes @ ASU. I definitely do better when I’ve got people to ‘pace’ against. This is an interesting observation that I’ve not quite internalized until now. I think the idea of having someone to ‘pace’ against is an idea that I intuitively knew from sports in high school, and some brief experience with running in grade school. ‘Pacers’ help me a lot because they help me stay on the path, helping me stay focused. It would be nice to not have to need pacers, but it takes tremendous focus and clarity on your goals if you want to go without a pacer. Furthermore, if you don’t know exactly where you are headed, pacers can be really helpful, because they help you keep moving in some direction.
 
