@@ -20,7 +20,7 @@ This is a non-exhaustive list of books that I'm reading, books that I've read an
 ## Honorable Mentions
 * [Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs](https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250194466/ref=sr_1_1?keywords=creative+selection&qid=1548030209&s=Books&sr=1-1) - By Ken Kocienda
 * [Geeks Bearing Gifts: Imagining New Futures for News](https://www.amazon.com/Geeks-Bearing-Gifts-Imagining-Futures-ebook/dp/B00PCKIL7C) - By Ten Nelson
-* [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095) - By Ten Nelson
+* [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095) - By Yuval Noah Harari
 
 ## Up Next
 * [I Am A Strange Loop](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793) - By Douglas Hofstadter
