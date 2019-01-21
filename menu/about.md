@@ -9,7 +9,7 @@ The best place to reach me is [on twitter](https://twitter.com/benhakes). You ca
 
 ### About Ben
 
-Ben is Midwest-based iOS engineer and a former real estate private equity portfolio manager. Ben is constantly learning and has a wide-ranging skill set that includes software development skills, managerial experience, capital markets expertise, in addition to a significant background in commercial real estate.
+Ben is Midwest-based iOS engineer and a former real estate private equity portfolio manager.
 
 Ben is currently a full-time software engineering student at [Lambda School](https://lambdaschool.com). At Lambda School, Ben is focused on iOS Development and eventually wants to focus on building IoT and augmented reality applications. Ben has experience with Swift, Java, Python, Git, [Github](https://github.com), Xcode, and general Object Oriented Design.
 
