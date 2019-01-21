@@ -11,10 +11,11 @@ This is a non-exhaustive list of books that I'm reading, books that I've read an
 
 ## All-Time Favorites (Re-readable)
 * [Impro: Improvisation and the Theatre](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178) - By Keith Johnstone
+* [The Information: A History, a Theory, a Flood](https://www.amazon.com/Information-History-Theory-Flood/dp/0375423729/ref=sr_1_1?crid=MQ5RFBFBAH8W&keywords=the+information+a+history%2C+a+theory%2C+a+flood&qid=1548033103&s=Books&sprefix=the+information%2Cstripbooks%2C145&sr=1-1) - By James Gleick
 * [Antifragile: Things That Gain From Disorder](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178) - By Nassim Nicholas Taleb
 * [Skin in the Game: Hidden Asymmetries in Daily Life](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X/ref=sr_1_2?keywords=skin+in+the+game&qid=1548030393&s=Books&sr=1-2) - By Nassim Nicholas Taleb
 * [The Power of Now: A Guide to Spiritual Enlightenment](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808/ref=sr_1_1?keywords=the+power+of+now&qid=1548030535&s=Books&sr=1-1) - By Eckhart Tolle
-* [Cryptonomicon](https://itunes.apple.com/us/book/cryptonomicon/id363688921?mt=11) - By Neil Stephenson
+* [Snow Crash](https://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/0553380958/ref=sr_1_1?keywords=snow+crash&qid=1548033168&s=Books&sr=1-1) - By Neil Stephenson
 * [Technological Revolutions and Financial Capital](https://www.amazon.com/s?k=technological+revolutions+and+financial+capital&i=stripbooks&crid=29DEG1IJNBIQT&sprefix=technological+rev%2Cstripbooks%2C143&ref=nb_sb_ss_i_1_17) - By Carlota Perez
 
 ## Honorable Mentions
