@@ -5,14 +5,14 @@ title: Reading List
 
 This is a non-exhaustive list of books that I'm reading, books that I've read and will re-read, as well as book that I read and liked but won't re-read.
 
-## Currently Reading
+### Currently Reading
 * [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/Gödel-Escher-Bach-Eternal-Golden/dp/0465026567) - By Douglas Hofstadter
 * [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and The Art of Living](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736/ref=sr_1_1?keywords=the+daily+stoic&qid=1548042679&s=Books&sr=1-1) - By Ryan Holiday and Stephen Hanselman
 
-## Current Technical Reading
+### Current Technical Reading
 * [Operating System Concepts](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1118063333/ref=sr_1_2?crid=32PGKHUAJ1L4H&keywords=operating+system+concepts&qid=1548030591&s=Books&sprefix=operating+systes%2Cstripbooks%2C1114&sr=1-2) - By Abraham Silberschatz, Peter B. Galvin, and Greg Gagne.
 
-## All-Time Favorites (Re-readable)
+### All-Time Favorites (Re-readable)
 * [Impro: Improvisation and the Theatre](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178) - By Keith Johnstone
 * [The Information: A History, a Theory, a Flood](https://www.amazon.com/Information-History-Theory-Flood/dp/0375423729/ref=sr_1_1?crid=MQ5RFBFBAH8W&keywords=the+information+a+history%2C+a+theory%2C+a+flood&qid=1548033103&s=Books&sprefix=the+information%2Cstripbooks%2C145&sr=1-1) - By James Gleick
 * [Antifragile: Things That Gain From Disorder](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178) - By Nassim Nicholas Taleb
@@ -25,7 +25,7 @@ This is a non-exhaustive list of books that I'm reading, books that I've read an
 * [Total Freedom: The Essential Krishnamurti](https://www.amazon.com/Total-Freedom-Essential-Krishnamurti-2-Dec-1996/dp/B012HULH4S/ref=sr_1_fkmrnull_2?keywords=total+freedom+j.+krishnamurti&qid=1548042841&s=Books&sr=1-2-fkmrnull) - By Jiddu Krishnamurti
 
 
-## Honorable Mentions
+### Honorable Mentions
 * [Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs](https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250194466/ref=sr_1_1?keywords=creative+selection&qid=1548030209&s=Books&sr=1-1) - By Ken Kocienda
 * [Geeks Bearing Gifts: Imagining New Futures for News](https://www.amazon.com/Geeks-Bearing-Gifts-Imagining-Futures-ebook/dp/B00PCKIL7C) - By Ted Nelson
 * [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095) - By Yuval Noah Harari
@@ -33,5 +33,5 @@ This is a non-exhaustive list of books that I'm reading, books that I've read an
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) - By Peter Thiel
 * [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) - By Saifedean Ammous
 
-## Up Next
+### Up Next
 * [I Am A Strange Loop](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793) - By Douglas Hofstadter
