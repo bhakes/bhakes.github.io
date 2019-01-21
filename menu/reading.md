@@ -9,7 +9,7 @@ This is a non-exhaustive list of books that I'm reading, books that I've read an
 * [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/Gödel-Escher-Bach-Eternal-Golden/dp/0465026567) - By Douglas Hofstadter
 * [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and The Art of Living](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736/ref=sr_1_1?keywords=the+daily+stoic&qid=1548042679&s=Books&sr=1-1) - By Ryan Holiday and Stephen Hanselman
 
-## Technical Reading
+## Current Technical Reading
 * [Operating System Concepts](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1118063333/ref=sr_1_2?crid=32PGKHUAJ1L4H&keywords=operating+system+concepts&qid=1548030591&s=Books&sprefix=operating+systes%2Cstripbooks%2C1114&sr=1-2) - By Abraham Silberschatz, Peter B. Galvin, and Greg Gagne.
 
 ## All-Time Favorites (Re-readable)
@@ -31,6 +31,7 @@ This is a non-exhaustive list of books that I'm reading, books that I've read an
 * [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095) - By Yuval Noah Harari
 * [Pride and Prejudice](https://www.amazon.com/Pride-Prejudice-Jane-Austen/dp/190962165X/ref=sr_1_1?crid=KA21TGUX1I98&keywords=pride+and+prejudice&qid=1548043026&s=Books&sprefix=pride+and%2Cstripbooks%2C221&sr=1-1)- By Jane Austen
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) - By Peter Thiel
+* [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) - By Saifedean Ammous
 
 ## Up Next
 * [I Am A Strange Loop](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793) - By Douglas Hofstadter
