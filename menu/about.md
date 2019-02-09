@@ -9,9 +9,9 @@ The best place to reach me is [on twitter](https://twitter.com/benhakes). You ca
 
 ### About Ben
 
-Ben is Midwest-based iOS engineer and a former real estate private equity portfolio manager.
+Ben is Midwest-based iOS developer and a former real estate private equity portfolio manager.
 
-Ben is currently a full-time software engineering student at [Lambda School](https://lambdaschool.com). At Lambda School, Ben is focused on iOS Development and eventually wants to focus on building IoT and augmented reality applications. Ben has experience with Swift, Java, Python, Git, [Github](https://github.com), Xcode, and general Object Oriented Design.
+Ben is currently a full-time software engineering student at [Lambda School](https://lambdaschool.com). At Lambda School, Ben is focused on iOS Development and eventually wants to specialize in IoT and augmented reality applications. Ben has experience with Swift, Java, Python, Git, [Github](https://github.com), Xcode, and general Object Oriented Design.
 
 In 2017, Ben founded Pareto Real Asset Advisors, a real assets consultancy focused on real estate and energy markets. In his role at Pareto, Ben acted as an independent consultant for real estate private equity and energy development clients.
 
