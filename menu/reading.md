@@ -35,3 +35,4 @@ This is a non-exhaustive list of books that I'm reading, books that I've read an
 
 ### Up Next
 * [I Am A Strange Loop](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793) - By Douglas Hofstadter
+* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - By Robert C. Martin
