@@ -10,6 +10,7 @@ menu:
 - {name: 'Swift', path: 'menu', url: 'swift.html'}
 - {name: 'Reading', path: 'menu', url: 'reading.html'}
 - {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'Swift & Apple Conference List', path: 'menu', url: 'swiftappleconference.html'}
 # - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
 
