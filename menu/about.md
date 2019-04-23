@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Welcome to my Personal Site!
+title: A little more about me
 ---
-
-### Contact
-
-The best place to reach me is [on twitter](https://twitter.com/benhakes). You can also [shoot me](mailto:ben@paretoadvisors.com) an email at ben@paretoadvisors.com.
 
 ### About Ben
 
-Ben is Midwest-based iOS developer and a former real estate private equity portfolio manager.
+I am a Midwest-based iOS developer with a knack for solving business problems.
 
-Ben is currently a full-time software engineering student at [Lambda School](https://lambdaschool.com). At Lambda School, Ben is focused on iOS Development and eventually wants to specialize in IoT and augmented reality applications. Ben has experience with Swift, Java, Python, Git, [Github](https://github.com), Xcode, and general Object Oriented Design.
+I am grateful for the chance to have studied iOS development with some of the best iOS instructors in the world at Lambda School.
 
-In 2017, Ben founded Pareto Real Asset Advisors, a real assets consultancy focused on real estate and energy markets. In his role at Pareto, Ben acted as an independent consultant for real estate private equity and energy development clients.
+Before transitioning into software development, I enjoyed a successful career as a financial analyst, portfolio manager, and business development consultant in the real estate, finance, and energy sectors.
 
-Prior to starting Pareto, Ben was an Assistant Portfolio Manager at [Harrison Street Real Estate Capital](https://www.harrisonst.com). Ben severed in a variety of Asset Management and Portfolio Management roles during six years at Harrison Street. Most notably, Ben was on the founding team of the firm's open-ended core fund and helped to grow the fund from $100M to $5B in AUM in 5 years.
+In my free time, I love to get outside for a bike, a round of golf, or a grill-out with friends.
+
+### Contact
+
+If you'd like to reach out, [shoot me](mailto:ben@hakes.dev) an email at ben@hakes.dev. You can also find me [on twitter](https://twitter.com/benhakes), [LinkedIn](https://www.linkedin.com/in/benhakes/), and [on Github](https://github.com/bhakes).
