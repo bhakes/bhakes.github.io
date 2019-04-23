@@ -271,7 +271,7 @@ hr {
 
 code,
 pre {
-  font-family: "Source Code Pro", monospace;
+  font-family: "Times New Roman", Times, serif;
 }
 code {
   padding: .25em .5em;
@@ -310,7 +310,7 @@ pre code {
 
 /* Gist via GitHub Pages */
 .gist .gist-file {
-  font-family: "Source Code Pro", monospace !important;
+  font-family: "Times New Roman", Times, serif;
 }
 .gist .markdown-body {
   padding: 15px;
