@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
+- {name: 'Reading', path: 'menu', url: 'reading.html'}
 - {name: 'About', path: 'menu', url: 'about.html'}
 #- {name: 'Swift', path: 'menu', url: 'swift.html'}
-- {name: 'Reading', path: 'menu', url: 'reading.html'}
 - {name: 'Quotes', path: 'menu', url: 'quotes.html'}
 - {name: 'Conferences', path: 'menu', url: 'conferences.html'}
 # - {name: 'Contact', path: 'menu', url: 'contact.html'}
