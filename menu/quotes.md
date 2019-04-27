@@ -7,17 +7,13 @@ I like quotes. I sometimes write them down if I really like them. These are list
 
 ### Software/Technology
 * "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it." - Alan Kay
-*
-
-### Investing
-* "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it." - Alan Kay
 
 ### Risk-taking and Skin-in-the-Game
 * “The curse of modernity is that we are increasingly populated by a class of people who are better at explaining than understanding, or better at explaining than doing.”  ― Nassim Nicholas Taleb, Skin in the Game: Hidden Asymmetries in Daily Life
 * “You do not want to win an argument. You want to win.”  ― Nassim Nicholas Taleb, Skin in the Game: Hidden Asymmetries in Daily Life
 * “Those who talk should do and only those who do should talk.” ― Nassim Nicholas Taleb, Skin in the Game: The Hidden Asymmetries in Daily Life
 
-### The modernity
+### Modernity
 * “To bankrupt a fool, give him information.” ― Nassim Nicholas Taleb, The Bed of Procrustes: Philosophical and Practical Aphorisms
 
 ### Learning and the lack thereof
