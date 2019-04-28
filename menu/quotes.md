@@ -7,6 +7,7 @@ I like quotes. I sometimes write them down if I really like them. These are list
 
 ### Software/Technology
 * "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it." - Alan Kay
+* "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time. (The 90/90 Rule)" — Tom Cargill, Bell Labs
 
 ### Risk-taking and Skin-in-the-Game
 * “The curse of modernity is that we are increasingly populated by a class of people who are better at explaining than understanding, or better at explaining than doing.”  ― Nassim Nicholas Taleb, Skin in the Game: Hidden Asymmetries in Daily Life
