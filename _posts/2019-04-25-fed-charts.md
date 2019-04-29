@@ -7,7 +7,6 @@ tags: [LambdaSchool,Swift,Xcode,Finance,SwiftCharts]
 image: FedChartCards.png
 ---
 
-# FedCharts
 I had a ton of fun building FedCharts. 
 
 FedCharts is a simple app that uses the St. Louis Federal Reserve's robust FRED API to display, save, and update economic charts.
