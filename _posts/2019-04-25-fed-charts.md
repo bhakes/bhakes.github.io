@@ -24,5 +24,5 @@ That's an astonishing amount of student debt! As an aside: I truely believe that
 
 ## More ScreenShots
 
-<div align="center"><img src="../assets/img/Almonds.png alt="Almonds"></div>
+<div align="center"><img src="../assets/img/Almonds.png" alt="Almonds"></div>
 <div align="center"><img src="../assets/img/10Y.png" alt="10YTreasury"></div>
