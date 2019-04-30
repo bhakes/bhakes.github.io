@@ -11,4 +11,4 @@ I have a really hard time coming by conferences for Swift and Apple for 2019, so
 * [NSNorth](http://nsnorth.ca) - April 26-28, Montreal.
 
 ## June
-* [WWDC - Apple](https://developer.apple.com/wwdc/) - Dates TBD, San Jose, CA.
+* [WWDC - Apple](https://developer.apple.com/wwdc/) - June 3-7, San Jose, CA.
