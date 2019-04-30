@@ -24,3 +24,9 @@ I like quotes. I sometimes write them down if I really like them. These are list
 ### Awareness
 * "Society is the outward projection of all our own inward psychological states." - J. Krishnamurti
 * “You can't stop the waves, but you can learn to surf.” - JKZ
+
+### Laws and Principles
+* Betteridge's Law of Headlines: "Any headline that ends in a question mark can be answered by the word no."- Ian Betteridge
+* Law of Parsimony (a.k.a., Occam's razor): "Simpler solutions are more likely to be correct than complex ones."
+* Cunningham's Law: "The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer." - Ward Cunningham
+* Gresham's Law: "Bad money drives out good."
