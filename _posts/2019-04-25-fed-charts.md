@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Fed Charts"
+layout: project
+title: "Fed Charts (Project)"
 author: "Ben Hakes"
 categories: journal
 tags: [LambdaSchool,Swift,Xcode,Finance,SwiftCharts]

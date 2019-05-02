@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Swift
+title: Posts
 ---
 
 <ul class="posts">

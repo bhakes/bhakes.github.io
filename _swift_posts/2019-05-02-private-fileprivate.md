@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Private vs. Fileprivate"
 author: "Ben Hakes"
 categories: journal
