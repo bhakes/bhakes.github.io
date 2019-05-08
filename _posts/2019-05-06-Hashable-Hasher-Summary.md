@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summary of Hashable/Hasher (NSHipster)"
+title: "Hashable/Hasher Summary"
 author: "Ben Hakes"
 categories: journal
 tags: [LambdaSchool,Swift,NSHipster,Hashable,Hasher]
