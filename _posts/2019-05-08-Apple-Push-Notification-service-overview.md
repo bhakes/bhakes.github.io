@@ -9,7 +9,7 @@ image: Notifications.png
 
 This post represents a summary of an Apple Article on APNs (Apple Push Notification service). For every greater detail about this topic, check out the [full article](https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/APNSOverview.html#//apple_ref/doc/uid/TP40008194-CH8-SW1).
 
-<div align="center"><img src="../assets/img/APNs-diagram.png" width="200" height="200" alt="APNs-diagram"></div>
+<div align="center"><img src="../assets/img/APNs-diagram.png" alt="APNs-diagram"></div>
 
 ### Apple Push Notification service (APNs)
 
