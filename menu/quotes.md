@@ -9,7 +9,7 @@ I like quotes. I sometimes write them down if I really like them. These are list
 * "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it." - Alan Kay
 * "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time. (The 90/90 Rule)" — Tom Cargill, Bell Labs
 
-## Functional Programming
+### Functional Programming
 * "Prefer composition over inheritance." - software development adage
 * "Side effects are the biggest source of complexity in a code base because they are (1) difficult to test, and (2) they don't compose well." - Brandon Williams
 * "Tests are just code that are verifying that our logic is correct." - Brandon Williams
