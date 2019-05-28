@@ -8,6 +8,7 @@ I like quotes. I sometimes write them down if I really like them. These are list
 ### Software Development
 * "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it." - Alan Kay
 * "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time. (The 90/90 Rule)" — Tom Cargill, Bell Labs
+* "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." - Kernigham's Law
 
 ### Functional Programming
 * "Prefer composition over inheritance." - software development adage
