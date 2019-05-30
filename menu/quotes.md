@@ -32,6 +32,7 @@ I like quotes. I sometimes write them down if I really like them. These are list
 ### Awareness
 * "Society is the outward projection of all our own inward psychological states." - J. Krishnamurti
 * “You can't stop the waves, but you can learn to surf.” - JKZ
+* "What we dislike in others exists within us, otherwise it wouldn't elicit such a strong response."
 
 ### Laws and Principles
 * Betteridge's Law of Headlines: "Any headline that ends in a question mark can be answered by the word no."- Ian Betteridge
