@@ -27,7 +27,8 @@ I like quotes. I sometimes write them down if I really like them. These are list
 ### On "Education", and Learning, or the lack thereof
 * "I have never let my schooling interfere with my education." - Mark Twain
 * “What does (formal) education often do?...It makes a straight-cut ditch of a free, meandering brook.” - Henry David Thoreau
-* "The tools for learning are abundant. It’s the desire to learn that’s scarce."
+* "The tools for learning are abundant. It’s the desire to learn that’s scarce." - Naval
+* "Lasting novels don’t come from literature departments. Successful businesses don’t come from business schools. Scientific revolutions don’t come from research universities. Get your education, then get moving." - Naval
 * “We all are learning, modifying, or destroying ideas all the time. Rapid destruction of your ideas when the time is right is one of the most valuable qualities you can acquire. You must force yourself to consider arguments on the other side.” ― Charles T. Munger
 * “What I learned on my own I still remember” - Nassim Nicholas Taleb, The Bed of Procrustes: Philosophical and Practical Aphorisms
 * “They think that intelligence is about noticing things that are relevant (detecting patterns); in a complex world, intelligence consists in ignoring things that are irrelevant (avoiding false patterns).” ― Nassim Nicholas Taleb, The Bed of Procrustes: Philosophical and Practical Aphorisms
