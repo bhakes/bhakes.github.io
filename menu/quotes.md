@@ -24,6 +24,9 @@ I like quotes. I sometimes write them down if I really like them. These are list
 ### On Modernity
 * “To bankrupt a fool, give him information.” ― Nassim Nicholas Taleb, The Bed of Procrustes: Philosophical and Practical Aphorisms
 
+### On Information
+* "The most interesting information comes from children, for they tell all they know and then stop." - Mark Twain
+
 ### On "Education", and Learning, or the lack thereof
 * "I have never let my schooling interfere with my education." - Mark Twain
 * “What does (formal) education often do?...It makes a straight-cut ditch of a free, meandering brook.” - Henry David Thoreau
