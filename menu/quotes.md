@@ -23,6 +23,7 @@ I like quotes. I sometimes write them down if I really like them. These are list
 
 ### On Modernity
 * “To bankrupt a fool, give him information.” ― Nassim Nicholas Taleb, The Bed of Procrustes: Philosophical and Practical Aphorisms
+* “Virtue is more to be feared than vice, because its excesses are not subject to the regulation of conscience.” - Adam Smith
 
 ### On Information
 * "The most interesting information comes from children, for they tell all they know and then stop." - Mark Twain
