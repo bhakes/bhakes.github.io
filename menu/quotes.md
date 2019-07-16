@@ -5,6 +5,9 @@ title: Quotes
 
 I like quotes. I sometimes write them down if I really like them. These are list of quotes I wrote down at some point, and thought we also good enough to repost here. Enjoy!
 
+### On Writing
+* "Short words are best and the old words when short are best of all." - Winston Churchill
+
 ### On Software Development
 * "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it." - Alan Kay
 * "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time. (The 90/90 Rule)" — Tom Cargill, Bell Labs
@@ -25,8 +28,12 @@ I like quotes. I sometimes write them down if I really like them. These are list
 * “To bankrupt a fool, give him information.” ― Nassim Nicholas Taleb, The Bed of Procrustes: Philosophical and Practical Aphorisms
 * “Virtue is more to be feared than vice, because its excesses are not subject to the regulation of conscience.” - Adam Smith
 
+### On Nature
+* "The imagination of nature is far, far greater than the imagination of man." - Richard Feynman
+
 ### On Information
 * "The most interesting information comes from children, for they tell all they know and then stop." - Mark Twain
+* "However little television you watch, watch less." - David McCullough
 
 ### On "Education", and Learning, or the lack thereof
 * "I have never let my schooling interfere with my education." - Mark Twain
