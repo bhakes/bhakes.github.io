@@ -23,10 +23,12 @@ I like quotes. I sometimes write them down if I really like them. These are list
 ### On Risk-taking and Having Skin-in-the-Game
 * “You do not want to win an argument. You want to win.”  ― Nassim Nicholas Taleb, Skin in the Game: Hidden Asymmetries in Daily Life
 * “Those who talk should do and only those who do should talk.” ― Nassim Nicholas Taleb, Skin in the Game: The Hidden Asymmetries in Daily Life
+* “Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.” ― William Shakespeare
 
 ### On Modernity
 * “To bankrupt a fool, give him information.” ― Nassim Nicholas Taleb, The Bed of Procrustes: Philosophical and Practical Aphorisms
 * “Virtue is more to be feared than vice, because its excesses are not subject to the regulation of conscience.” - Adam Smith
+* “All of humanity’s problems stem from man’s inability to sit quietly in a room alone.”  - Blaise Pascal
 
 ### On Nature
 * "The imagination of nature is far, far greater than the imagination of man." - Richard Feynman
@@ -45,6 +47,7 @@ I like quotes. I sometimes write them down if I really like them. These are list
 * “They think that intelligence is about noticing things that are relevant (detecting patterns); in a complex world, intelligence consists in ignoring things that are irrelevant (avoiding false patterns).” ― Nassim Nicholas Taleb, The Bed of Procrustes: Philosophical and Practical Aphorisms
 
 ### On Awareness
+* "What we practice becomes stronger.” - Buddhist teaching
 * "Society is the outward projection of all our own inward psychological states." - J. Krishnamurti
 * “You can't stop the waves, but you can learn to surf.” - JKZ
 * "What we dislike in others exists within us, otherwise it wouldn't elicit such a strong response."
