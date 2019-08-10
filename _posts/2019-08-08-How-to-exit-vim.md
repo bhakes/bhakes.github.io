@@ -9,8 +9,6 @@ image: vim.jpeg
 
 Quick post here:
 
-<div align="center"><img src="../assets/img/vim.jpeg" alt="vim"></div>
-
 ### Vim, the butt of every programmer joke
 
 I found myself needing to exit Vim today and not actually remembering how. :embrassed_emoji: Exiting Vim has become the canonical programmer punchline for comparing something to a difficult task. For instance:
