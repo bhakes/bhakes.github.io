@@ -4,12 +4,12 @@ title: "How to Exit Vim"
 author: "Ben Hakes"
 categories: journal
 tags: [Vim,Short]
-image: vim.png
+image: vim.jpeg
 ---
 
 Quick post here:
 
-<div align="center"><img src="../assets/img/vim.png" alt="vim"></div>
+<div align="center"><img src="../assets/img/vim.jpeg" alt="vim"></div>
 
 ### Vim, the butt of every programmer joke
 
