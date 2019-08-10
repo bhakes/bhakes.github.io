@@ -8,6 +8,7 @@ This is a non-exhaustive list of books that I'm reading, books that I've read an
 ### Currently (re)Reading
 
 * [Skin in the Game: Hidden Asymmetries in Daily Life ](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X/ref=sr_1_1?crid=MO3AWFQELI1R&keywords=skin+in+the+game+nassim+taleb&qid=1564753717&s=books&sprefix=skin+in+the+ga%2Cstripbooks%2C142&sr=1-1) - By Nassim Nicholas Taleb
+* [Hackers & Painters: Big Ideas from the Computer Age]( http://www.paulgraham.com/hp.html) - By Paul Graham
 
 ### Current Technical Reading
 * [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=sr_1_1?crid=229ZUBYYP3DRL&keywords=the+structure+and+interpretation+of+computer+programs&qid=1564753665&s=books&sprefix=the+structure+and+in%2Cstripbooks%2C143&sr=1-1) - By Harold Abelson, Gerald Jay Sussman, and Julie Sussman
