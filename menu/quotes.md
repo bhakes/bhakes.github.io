@@ -10,6 +10,7 @@ I like quotes. I sometimes write them down if I really like them. These are list
 
 ### On Software Development
 * "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it." - Alan Kay
+* "Programs should be written for people to read, and only incidentally for machines to execute." - SICP
 * "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time. (The 90/90 Rule)" — Tom Cargill, Bell Labs
 * "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." - Kernigham's Law
 
@@ -45,6 +46,7 @@ I like quotes. I sometimes write them down if I really like them. These are list
 * “We all are learning, modifying, or destroying ideas all the time. Rapid destruction of your ideas when the time is right is one of the most valuable qualities you can acquire. You must force yourself to consider arguments on the other side.” ― Charles T. Munger
 * “What I learned on my own I still remember” - Nassim Nicholas Taleb, The Bed of Procrustes: Philosophical and Practical Aphorisms
 * “They think that intelligence is about noticing things that are relevant (detecting patterns); in a complex world, intelligence consists in ignoring things that are irrelevant (avoiding false patterns).” ― Nassim Nicholas Taleb, The Bed of Procrustes: Philosophical and Practical Aphorisms
+* “We don't rise to the level of our expectations, we fall to the level of our training.” — Archilochus
 
 ### On Awareness
 * "What we practice becomes stronger.” - Buddhist teaching
