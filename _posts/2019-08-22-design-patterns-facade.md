@@ -8,7 +8,7 @@ image: door.jpg
 ---
 
 # The Facade Design Pattern
-In this post I will take a look at the `Facade` Design Pattern, and will implement the pattern in Swift.
+In this post, I will take a look at the `Facade` design pattern, and will implement the pattern in Swift.
 
 ## Pattern Intent
 ``` 
@@ -38,8 +38,8 @@ So when could this be useful? Well, here are some cases:
 - implement the subsystem functionality
 - handle work assigned by the `Facade` object
 - have know knowledge or reference to the facade.
-— Erich Gamma, et al., Design Patterns: Elements of Resuable Object-Oriented Software, 187
 
+— Erich Gamma, et al., Design Patterns: Elements of Resuable Object-Oriented Software, 187
 
 ## Collaborations
 - Clients send messages to the Facade, which passes them on the the appropriate subsystem
@@ -53,7 +53,7 @@ So when could this be useful? Well, here are some cases:
 
 ## Code Sample
 
-The following code sample is a handy little Facade pattern for accessing and manipulating `UserDefaults`.
+The following code sample is a handy little Facade pattern for accessing and manipulating `UserDefaults`. This was source from [this repository](https://github.com/ochococo/Design-Patterns-In-Swift/blob/master/source/structural/facade.swift). 
 
 ```swift
 /*:
