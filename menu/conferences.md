@@ -3,12 +3,12 @@ layout: page
 title: Conference List
 ---
 
-I have a really hard time coming by conferences for Swift and Apple for 2019, so I've decided to make a list here.
+Some conferences that sounds cool. Some I will go to, some I won't.
 
 # 2019
 
-## April
-* [NSNorth](http://nsnorth.ca) - April 26-28, Montreal.
+## September
+* [Try! Swift (NYC)](https://www.tryswift.co/events/2019/nyc/) - September 9-10, New York, NY.
 
-## June
-* [WWDC - Apple](https://developer.apple.com/wwdc/) - June 3-7, San Jose, CA.
+## November
+* [SwiftHeroes](https://swiftheroes.com/2019/en) - November 15, Turin, Italy.
