@@ -25,7 +25,7 @@ The `Facade` pattern solves this problem by creating a single common “interfac
 
 ## Applicability
 So when could this be useful? Well, here are some cases:
-- Use the `Facade` pattern when you want to provide a simple interface to a complex subsystem. This about the gas pedal on a car. The gas pedal, as an interface is very simple. What goes on when the pedal is pushed down is much more complex. You can use `Facade` to hide, or _abstract_, some complexity from the client. 
+- Use the `Facade` pattern when you want to provide a simple interface to a complex subsystem. Think about the gas pedal on a car. The gas pedal, as an interface is very simple. What goes on when the pedal is pushed down is much more complex. You can use `Facade` to hide, or _abstract_, some complexity from the client. 
 - When want to decouple many different clients from the subsystems implementation. Here a `Facade` decouple the subsystems from the clients and promotes more subsystem independence.
 - When you want to layer your subsystems. `Facade`s can be used as entry points to different layers of a subsystem.
 
