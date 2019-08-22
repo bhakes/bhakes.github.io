@@ -4,7 +4,7 @@ title: "Design Patterns: Facade"
 author: "Ben Hakes"
 categories: journal
 tags: [Design Patterns, Swift, Facade]
-image: door.jpeg
+image: door.jpg
 ---
 
 # The Facade Design Pattern
