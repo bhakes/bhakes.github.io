@@ -39,10 +39,11 @@ I like quotes. I sometimes write them down if I really like them. These are list
 * "The most interesting information comes from children, for they tell all they know and then stop." ― Mark Twain
 * "However little television you watch, watch less." ― David McCullough
 
-### On "Education", and Learning, or the lack thereof
+### On "education", and learning, or the lack thereof
 * "I have never let my schooling interfere with my education." ― Mark Twain
 * “What does (formal) education often do?...It makes a straight-cut ditch of a free, meandering brook.” ― Henry David Thoreau
 * "The tools for learning are abundant. It’s the desire to learn that’s scarce." ― Naval
+* "The skills you really want can’t be taught, but they can be learned." - Naval
 * "Lasting novels don’t come from literature departments. Successful businesses don’t come from business schools. Scientific revolutions don’t come from research universities. Get your education, then get moving." ― Naval
 * “We all are learning, modifying, or destroying ideas all the time. Rapid destruction of your ideas when the time is right is one of the most valuable qualities you can acquire. You must force yourself to consider arguments on the other side.” ― Charles T. Munger
 * “What I learned on my own I still remember” ―Nassim Nicholas Taleb, The Bed of Procrustes: Philosophical and Practical Aphorisms
