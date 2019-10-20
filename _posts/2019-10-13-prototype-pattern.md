@@ -35,6 +35,7 @@ So when could this be useful? Well, here are some cases:
 - Implements an operation for cloning itself
 3. *Client
 - Creates a new object by asking a prototype to clone itself
+
 — Erich Gamma, et al., Design Patterns: Elements of Resuable Object-Oriented Software, 119
 
 ## Collaborations
@@ -48,7 +49,7 @@ Languages like Smalltalk and Objective C, which treat classes as first-class obj
 
 ## Code Sample
 
-The following code sample implements a facade pattern via a `MoonWorker` struct and. This was source from [this repository](https://github.com/ochococo/Design-Patterns-In-Swift/blob/master/source/creational/prototype.swift). 
+The following code sample implements a facade pattern via a `MoonWorker` struct and a struct instance prototype. The "clients" in this example are the "bells". This was source from [this repository](https://github.com/ochococo/Design-Patterns-In-Swift/blob/master/source/creational/prototype.swift). 
 
 ```swift
 /*:
