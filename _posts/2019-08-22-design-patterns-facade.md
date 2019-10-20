@@ -7,7 +7,7 @@ tags: [Design Patterns, Swift, Facade]
 image: door.jpg
 ---
 
-In this post, I will take a look at the `Facade` design pattern, and will implement the pattern in Swift.
+In this post, I will take a look at the `Facade` design pattern, a common `Structural` design pattern, and will implement the pattern in Swift.
 
 ## Pattern Intent
 ``` 
