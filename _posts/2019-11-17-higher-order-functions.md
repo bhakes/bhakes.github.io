@@ -4,7 +4,7 @@ title: "Higher-Order Functions"
 author: "Ben Hakes"
 categories: journal
 tags: [Functions, Swift, Higher-Order Functions]
-image: prototype.jpg
+image: higherorderfunctions.jpg
 ---
 
 For the next few posts, I will be covering some basic functional programming concepts in `Swift`. Today, I'll start off very basic, and will be discussing the idea of `Higher-Order Functions`.
