@@ -11,7 +11,7 @@ I am grateful for the chance to have studied iOS development with some of the be
 
 Before transitioning into software development, I enjoyed a successful career as a financial analyst, portfolio manager, and business development consultant in the real estate, finance, and energy sectors.
 
-In my free time, I love to get outside for a bike, a round of golf, or a grill-out with friends.
+When I'm not working or tinkering on side projects, I like to spend time with family, get outside, and generally stay active.
 
 ### Contact
 
