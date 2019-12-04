@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Conference List
+title: Development Resources
 ---
 
-Some conferences that sounds cool. Some I will go to, some I won't.
+Below are a list of resouces that I've found helpful for software and iOS development.
 
 # 2019
 
