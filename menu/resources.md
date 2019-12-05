@@ -12,4 +12,4 @@ Below are a list of resouces that I've found helpful for software and iOS develo
 * [NSHipster](https://www.swiftbysundell.com) - Weekly journal on often overlooked parts of Objective-C, Swift, and Cocoa. Run by [@Mattt](https://twitter.com/mattt).
 
 ### Design
-*[Mobbin](https://mobbin.design) - Curated, searchable, mobile design patterns drawing from many of the most popular mobile apps.
+* [Mobbin](https://mobbin.design) - Curated, searchable, mobile design patterns drawing from many of the most popular mobile apps.
