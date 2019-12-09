@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Development Resources
+title: Resources
 ---
 
-Below are a list of resouces that I've found helpful for software and iOS development.
+Below are a list of resouces that I've found helpful over my career.
 
 ## iOS Development
 
