@@ -35,4 +35,4 @@ Below are a list of resouces that I've found helpful for software and iOS develo
 ## Management
 
 ### Executive Communication
-* [Operations and Internal Communication Strategies for Effective CEOs](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos)
+* [Operations and Internal Communication Strategies for Effective CEOs](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos) - practical executive tactics and key insights from world-class leaders and operators.
