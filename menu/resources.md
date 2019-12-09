@@ -15,6 +15,9 @@ Below are a list of resouces that I've found helpful for software and iOS develo
 ### Core Data
 * [The Laws of Core Data](https://davedelong.com/blog/2018/05/09/the-laws-of-core-data/) - The sort of "10 Commandments" for Core Data, written by Dave Delong.
 
+### Dependency Management
+* [SwiftPM Library](https://swiftpm.co) - Search Swift packages and libraries, maintained by [Dave Verwer](https://twitter.com/daveverwer).
+
 ### Design
 * [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - The defacto design guidelines for developing iOS applications, published by Apple.
 * [Mobbin](https://mobbin.design) - Curated, searchable, mobile design patterns drawing from many of the most popular mobile apps.
@@ -23,3 +26,9 @@ Below are a list of resouces that I've found helpful for software and iOS develo
 ### Swift on the Server
 * [Vapor Framework](https://github.com/vapor/vapor) - A server-side Swift web framework.
 * [Plot Framework](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML, and RSS in Swift. Open-sourced by [John Sundell](https://twitter.com/johnsundell).
+
+
+## Software Development
+
+### Networking
+* [Networking](https://jvns.ca/networking-zine.pdf) - An illustrated overview of computer networking, by [Julia Evans](https://twitter.com/b0rk). See more of her "Zines" [here](https://wizardzines.com/).
