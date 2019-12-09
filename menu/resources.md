@@ -40,3 +40,7 @@ Below are a list of resouces that I've found helpful for software and iOS develo
 
 ### Executive Communication
 * [Operations and Internal Communication Strategies for Effective CEOs](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos) - practical tactics and key insights from world-class leaders and operators.
+
+## Writing
+
+* [The Day you became a better writer](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html) - It's short. Read it. You'll be a better writer for it.
