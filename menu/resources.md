@@ -27,8 +27,12 @@ Below are a list of resouces that I've found helpful for software and iOS develo
 * [Vapor Framework](https://github.com/vapor/vapor) - A server-side Swift web framework.
 * [Plot Framework](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML, and RSS in Swift. Open-sourced by [John Sundell](https://twitter.com/johnsundell).
 
-
 ## Software Development
 
 ### Networking
 * [Networking](https://jvns.ca/networking-zine.pdf) - An illustrated overview of computer networking, by [Julia Evans](https://twitter.com/b0rk). See more of her "Zines" [here](https://wizardzines.com/).
+
+## Management
+
+### Executive Communication
+* [Operations and Internal Communication Strategies for Effective CEOs](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos)
