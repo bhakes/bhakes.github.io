@@ -23,6 +23,10 @@ Below are a list of resouces that I've found helpful for software and iOS develo
 * [Mobbin](https://mobbin.design) - Curated, searchable, mobile design patterns drawing from many of the most popular mobile apps.
 * [pttrns](https://pttrns.com) - Browsable, searchable mobile design patterns from the most popular apps.
 
+### Testing
+* [iOS UI Testing Cheat Sheet](https://www.hackingwithswift.com/articles/148/xcode-ui-testing-cheat-sheet) - A set of quick code snippets that help you solve a variety of common problems using Xcode’s UI testing system, written by [Paul Hudson](https://twitter.com/twostraws).
+
+
 ### Swift on the Server
 * [Vapor Framework](https://github.com/vapor/vapor) - A server-side Swift web framework.
 * [Plot Framework](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML, and RSS in Swift. Open-sourced by [John Sundell](https://twitter.com/johnsundell).
