@@ -10,6 +10,7 @@ I like quotes. I sometimes write them down if I really like them. These are list
 * "Programs should be written for people to read, and only incidentally for machines to execute."  ― SICP
 * "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time. (The 90/90 Rule)" — Tom Cargill, Bell Labs
 * "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."  ― Kernigham's Law
+* "The two hardest problems in computer science are naming things, cache invalidation, and off by one errors."
 
 ### On Functional Programming
 * "Prefer composition over inheritance."  ― software development adage
@@ -56,6 +57,9 @@ I like quotes. I sometimes write them down if I really like them. These are list
 * “You can't stop the waves, but you can learn to surf.” ― JKZ
 * "What we dislike in others exists within us, otherwise it wouldn't elicit such a strong response."
 
+### On getting stuff done
+* “Slow is smooth. Smooth is fast.”
+
 ### Laws and Principles
 * Betteridge's Law of Headlines: "Any headline that ends in a question mark can be answered by the word no." ― Ian Betteridge
 * Parkinson's Law: "Work expands so as to fill the time available for its completion."
@@ -63,3 +67,5 @@ I like quotes. I sometimes write them down if I really like them. These are list
 * Cunningham's Law: "The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer." ― Ward Cunningham
 * [Gresham's Law](https://en.wikipedia.org/wiki/Gresham%27s_law): "Bad money drives out good."
 * [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): "When a measure becomes a target, it ceases to be a good measure."
+
+

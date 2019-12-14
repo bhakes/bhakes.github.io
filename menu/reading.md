@@ -5,14 +5,14 @@ title: Reading List
 
 This is a non-exhaustive list of books that I'm reading, books that I've read and will re-read, as well as book that I read and liked but won't re-read.
 
-### Currently (re)Reading
+### Currently Reading
 
 * [Skin in the Game: Hidden Asymmetries in Daily Life ](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X/ref=sr_1_1?crid=MO3AWFQELI1R&keywords=skin+in+the+game+nassim+taleb&qid=1564753717&s=books&sprefix=skin+in+the+ga%2Cstripbooks%2C142&sr=1-1) - By Nassim Nicholas Taleb
 * [Hackers & Painters: Big Ideas from the Computer Age]( http://www.paulgraham.com/hp.html) - By Paul Graham
+* [Deceit, Desire, and the Novel](https://www.goodreads.com/book/show/337520.Deceit_Desire_and_the_Novel) - By Rene Girard
 
 ### Current Technical Reading
 * [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=sr_1_1?crid=229ZUBYYP3DRL&keywords=the+structure+and+interpretation+of+computer+programs&qid=1564753665&s=books&sprefix=the+structure+and+in%2Cstripbooks%2C143&sr=1-1) - By Harold Abelson, Gerald Jay Sussman, and Julie Sussman
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) - By Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
 
 ### All-Time Favorites (Re-readable)
 * [Impro: Improvisation and the Theatre](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178) - By Keith Johnstone
@@ -32,10 +32,8 @@ This is a non-exhaustive list of books that I'm reading, books that I've read an
 * [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095) - By Yuval Noah Harari
 * [Pride and Prejudice](https://www.amazon.com/Pride-Prejudice-Jane-Austen/dp/190962165X/ref=sr_1_1?crid=KA21TGUX1I98&keywords=pride+and+prejudice&qid=1548043026&s=Books&sprefix=pride+and%2Cstripbooks%2C221&sr=1-1)- By Jane Austen
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) - By Peter Thiel
-* [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) - By Saifedean Ammous
 
 ### Up Next
-* [Hackers and Painters: Big Ideas from the Computer Age](https://www.amazon.com/gp/product/0596006624/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - By Paul Graham
 * [Functional Programming](https://www.amazon.com/gp/product/0201192497/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) - By Anthony J. Field
 * [I Am A Strange Loop](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793) - By Douglas Hofstadter
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - By Robert C. Martin
