@@ -24,6 +24,7 @@ Below are a list of resouces that I've found helpful over my career.
 * [pttrns](https://pttrns.com) - Browsable, searchable mobile design patterns from the most popular apps.
 
 ### Testing
+* [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) - A great review of the concept of a "Test Pyramid", with practice examples (written in Java, sorry).
 * [iOS UI Testing Cheat Sheet](https://www.hackingwithswift.com/articles/148/xcode-ui-testing-cheat-sheet) - A set of quick code snippets that help you solve a variety of common problems using Xcode’s UI testing system, written by [Paul Hudson](https://twitter.com/twostraws).
 
 
