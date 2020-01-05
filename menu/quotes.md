@@ -40,6 +40,9 @@ I like quotes. I sometimes write them down if I really like them. These are list
 * "The most interesting information comes from children, for they tell all they know and then stop." ― Mark Twain
 * "However little television you watch, watch less." ― David McCullough
 
+### On Giving
+* "We make a living by what we get, but we make a life by what we give." ― Winston Churchill
+
 ### On "education", and learning, or the lack thereof
 * "I have never let my schooling interfere with my education." ― Mark Twain
 * “What does (formal) education often do?...It makes a straight-cut ditch of a free, meandering brook.” ― Henry David Thoreau
