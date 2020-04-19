@@ -63,7 +63,7 @@ Eventually, the only way for the bakers, and blacksmiths, and builders to surviv
 
 This _dis-incentive_ for building within the state with the gold mine is the root problem. The access to the mine incentivizes the rent-seeking behavior which Marc (and I, and many others) so dearly loath. To quote Cantillon, "This will gradually impoverish the state and make it, in a way, dependent on foreigners to whom it is obliged to send money every year as it is extracted from the mines."
 
-This is exactly what happens in the U.S. today. In exchange for the world using the US Dollar as the global reserve currency, we run a massive trading deficit. Instead of making good, we outsource them to places where making good is cheaper. The incentive to build great things in the U.S. has been eroded because its _so much easier to make lots of money_ being a middle-man to a large financial transaction. So instead of incentivizing building the next great civic infrastructure, or an army of automated robots, we incentivize people to be real estate brokers and investment bankers.
+This is exactly what happens in the U.S. today. In exchange for the world using the US Dollar as the global reserve currency, we run a massive trade deficit. Instead of making good, we outsource them to places where making good is cheaper. The incentive to build great things in the U.S. has been eroded because its _so much easier to make lots of money_ being a middle-man to a large financial transaction. So instead of incentivizing building the next great civic infrastructure, or an army of automated robots, we incentivize people to be real estate brokers and investment bankers.
 
 ## Conceiving of a Different Plan: Walking Away from Global Reserve Currency
 
