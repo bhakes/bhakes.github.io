@@ -19,15 +19,15 @@ Marc doesn’t believe money is the problem. After all, the events of the past w
 
 Unfortunately, this misses the point. The problem isn’t the _quantity_ of money. It’s the _quality_ and nature of our money. Specifically, its is the fact that the US Dollar is _not only_ our national currency, but it is also the world’s global reserve currency. Why is that important? Well, let me take you back to the 18th century and the writings of a famous economic thinker named Richard Cantillon.
 
-## Richard Cantillon - A monetary theorist ahead of his time
+## Richard Cantillon - A Monetary Theorist Ahead of His Time
 
 [Richard Cantillon](https://en.wikipedia.org/wiki/Richard_Cantillon) was an 18th century Irish-French economist, banker, entrepreneur, and writer. One of his few surviving [works](https://mises.org/library/essay-economic-theory-0) is “[An Essay on Economic Theory](https://mises.org/library/essay-economic-theory-0)”, in which Cantillon lays out one of the first complete treaties on economics. It also happens to be one of the earliest essay on monetary theory.
 
-One particular chapter, Cantillon describes a phenomena that he saw play out with the Spanish and the Portuguese during the previous two centuries (15th and 16th) that has incredible importance to today. 
+In one particular chapter, Cantillon describes a phenomena that he saw play out with the Spanish and the Portuguese during the previous two centuries (15th and 16th) that has incredible importance to today. 
 
-Specifically, he describes how the Spanish, via the gold mines in the new world, and the Portuguese, via gold mines in Brazil, _impoverished themselves_ with the flood of new hard money coming from their mines. Ironically, by supplying lots of new hard money, the mines drove up prices for the _artisan, creative class_ (a.k.a., the builders) in favor of a rentier class of financiers that were closer to the source of the new money. The increase in prices eventually _drove out_ the artisan creative class, as good could be produced cheaper elsewhere and import ('Made in China').
+Specifically, Cantillon describes how the Spanish, via the gold mines in the new world, and the Portuguese, via gold mines in Brazil, _impoverished themselves_ with the flood of new hard money coming from their mines. Ironically, by supplying lots of new hard money, the mines drove up prices for the _artisan, creative class_ (a.k.a., Marc's "builders") in favor of a rentier class of financiers that were closer to the source of the new money. The increase in prices eventually _drove out_ the artisan creative class, as goods could be produced cheaper elsewhere and imported (a.ka., 'Made in China').
 
-Below is Cantillon's summary of the phenomenon:
+Below is Cantillon's summary of the phenomenon from `An Essay on Economic Theory`:
 
 ```
 If the increase of hard money comes from gold and silver mines within the state, the owner of these mines, the entrepreneurs, the smelters, refiners, and all the other workers will increase their expenses in proportion to their profits. Their households will consume more meat, wine, or beer than before. — Part 2, Ch. 6, p. 170
@@ -48,10 +48,26 @@ If this situation sounds all to familar its because it's exactly what's been goi
 
 ## The United States’s Gold Mine — The US Dollar
 
-Because the US Dollar is the global reserve currency, the U.S. Government, through the Federal Reserve Bank and the Treasury, effectively have a gold mine. As long as the Fed and the Treasury act somewhat prudently, the U.S. can continue to “extract” dollars from this “gold mine” by printing new dollars or otherwise manipulating the money supply.
+Because the US Dollar is the global reserve currency, the U.S. Government, through the Federal Reserve Bank and the Treasury, effectively have a gold mine. 
+
+As long as the Fed and the Treasury act somewhat prudently (and not print too many dollars), the U.S. can continue to “extract” dollars from this “gold mine” by printing new dollars or otherwise manipulating the money supply.
 
 What happens to these dollars that get extracted? It is a process similar to that which Cantillon described above in his example of a colony that discovers a gold mine. Let me illustrate below:
 
-First, the U.S. through central bankers, who are ultimately mine owners, print money or manipulate interest rates in a way that increases the money supply or the velocity of money. The way this is usually done is through coordinated effort with their “employees” the bankers. The bankers are the first ones to get the newly printed money, and are thus like the employees in the mines in Cantillon’s example. 
+First, the U.S. through central bankers, who are ultimately the mine owners, print money or manipulate interest rates in a way that increases the money supply or the velocity of money. This is usually done is through coordinated effort with their “employees”, the bankers. The bankers, or commercial bankers, are the first ones to get the newly printed money, and are thus like the employees in the mines in Cantillon’s example. The bankers spend some of this money on goods and services like nice steak dinners and new houses in the Hamptons, and then lend out some of the rest of the money to projects that they think will provide them with a positive return on their capital. 
 
+Those with strong relationships and access to the bankers are the first to get the money from the bankers. These people/institutions tend to be corporations and corporate officers with existing banking relationships. When those corporate officers get access to the bank money, they go and spend money on other goods and services, which generally raises the prices even more.
 
+The last people to get access to this new money are the artisans, the folks who haven't been cultivating relationships with bankers, and rather, building real things. They are the bakers, the blacksmiths, and the builders. Unfortunately for them, the general price level has already been elevate by the central bankers, the commercial bankers, and corporations with close ties to both. The effect is that their money is. This whole process is know as the [Cantillon Effect](https://en.wikipedia.org/wiki/Richard_Cantillon#Monetary_theory), and it is one of the most fundamental ideas for which to understand the operation of the modern U.S. economic structure.
+
+Eventually, the only way for the bakers, and blacksmiths, and builders to survive is by raising their prices. But, unfortunately, _they can only raise their prices so much_, because eventually individuals in the state will start to buy foreign goods at much cheaper prices from builders and manufacturers that don't have to pay for the costs of living inflated price state.
+
+This _dis-incentive_ for building within the state with the gold mine is the root problem. The access to the mine incentivizes the rent-seeking behavior which Marc (and I, and many others) so dearly loath. To quote Cantillon, "This will gradually impoverish the state and make it, in a way, dependent on foreigners to whom it is obliged to send money every year as it is extracted from the mines."
+
+This is exactly what happens in the U.S. today. In exchange for the world using the US Dollar as the global reserve currency, we run a massive trading deficit. Instead of making good, we outsource them to places where making good is cheaper. The incentive to build great things in the U.S. is erroded because its _so much easier to make lots of money_ being a middle-man to a large financial transaction. So instead of incentivizing building automated robot armies, we incentize people to be real estate brokers and investment bankers.
+
+## Conceiving of a Different Plan: Walking away from the USD
+
+Marc didn't just want my criticisms in this response. He challenged us to come up with a better plan. So here's mine:
+
+*The U.S. Government needs to preemptively give up the US Dollar's global reserve currency status.*
