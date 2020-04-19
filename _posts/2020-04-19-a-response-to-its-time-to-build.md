@@ -1,4 +1,4 @@
-In a recently published and widely read [article](https://a16z.com/2020/04/18/its-time-to-build/), [Marc Andreessen](https://twitter.com/pmarca) issued a sort of “call-to-arms”, for America to stop twiddling its thumbs and to start building real, impactful things. I LOVE the spirit in which this essay was written — I believe whole-heartedly that we need to focus on being a nation of builders. If you haven't read it already, I encourage you to.
+In a recently published and widely read [article](https://a16z.com/2020/04/18/its-time-to-build/), [Marc Andreessen](https://twitter.com/pmarca) issued a sort of “call-to-arms”, for America to stop twiddling its thumbs and to start building real, impactful things. I LOVE the spirit in which this essay was written — I believe whole-heartedly that we need to focus on being a nation of builders. If you haven't read it already, I encourage you to before reading on.
 
 Still, in the article, Marc offers a challenge to those that disagree with his diagnosis, and the actions that should be taken.
 
