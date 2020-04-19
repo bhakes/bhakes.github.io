@@ -48,15 +48,15 @@ If this situation sounds all to familar its because it's exactly what's been goi
 
 ## The United States’s Gold Mine — The US Dollar
 
-Because the US Dollar is the global reserve currency, the U.S. Government, through the Federal Reserve Bank and the Treasury, effectively have a gold mine. 
+Because the US Dollar is the global reserve currency, the U.S. Government, through the Federal Reserve and the Treasury, effectively have a gold mine. 
 
-As long as the Fed and the Treasury act somewhat prudently (and not print too many dollars), the U.S. can continue to “extract” dollars from this “gold mine” by printing new dollars or otherwise manipulating the money supply.
+As long as the Fed and the Treasury act somewhat prudently (and don't print too many dollars all at once and destory confidence in the dollar), the U.S. can continue to “extract” dollars from this “gold mine” by printing new dollars or otherwise manipulating the money supply.
 
-What happens to these dollars that get extracted? It is a process similar to that which Cantillon described above in his example of a colony that discovers a gold mine. Let me illustrate below:
+What happens to these dollars that get extracted? The process is similar to the one Cantillon described above in his example of a colony that discovers a gold mine.
 
-First, the U.S. through central bankers, who are ultimately the mine owners, print money or manipulate interest rates in a way that increases the money supply or the velocity of money. This is usually done is through coordinated effort with their “employees”, the bankers. The bankers, or commercial bankers, are the first ones to get the newly printed money, and are thus like the employees in the mines in Cantillon’s example. The bankers spend some of this money on goods and services like nice steak dinners and new houses in the Hamptons, and then lend out some of the rest of the money to projects that they think will provide them with a positive return on their capital. 
+First, the U.S., through central bankers, who are ultimately the mine operators, print money or manipulate interest rates in a way that increases the money supply or the velocity of money. This is usually done is through coordinated effort with their “employees”, the bankers. The bankers, or commercial bankers, are the first ones to get the newly printed money, and are thus like the employees in the mines in Cantillon’s example. The bankers spend some of this money on goods and services like nice steak dinners and new houses in the Hamptons, and then lend out some of the rest of the money to projects that they think will provide them with a positive return on their capital. 
 
-Those with strong relationships and access to the bankers are the first to get the money from the bankers. These people/institutions tend to be corporations and corporate officers with existing banking relationships. When those corporate officers get access to the bank money, they go and spend money on other goods and services, which generally raises the prices even more.
+Those with strong relationships and access to the bankers are the first to get the money from the bankers. These people, and institutions, tend to be corporations and corporate officers with existing banking relationships. When those corporate officers get access to the bank money, they go and spend money on other goods and services, which generally raises the prices even more.
 
 The last people to get access to this new money are the artisans, the folks who haven't been cultivating relationships with bankers, and rather, building real things. They are the bakers, the blacksmiths, and the builders. Unfortunately for them, the general price level has already been elevate by the central bankers, the commercial bankers, and corporations with close ties to both. The effect is that their money is. This whole process is know as the [Cantillon Effect](https://en.wikipedia.org/wiki/Richard_Cantillon#Monetary_theory), and it is one of the most fundamental ideas for which to understand the operation of the modern U.S. economic structure.
 
@@ -66,7 +66,7 @@ This _dis-incentive_ for building within the state with the gold mine is the roo
 
 This is exactly what happens in the U.S. today. In exchange for the world using the US Dollar as the global reserve currency, we run a massive trading deficit. Instead of making good, we outsource them to places where making good is cheaper. The incentive to build great things in the U.S. is erroded because its _so much easier to make lots of money_ being a middle-man to a large financial transaction. So instead of incentivizing building automated robot armies, we incentize people to be real estate brokers and investment bankers.
 
-## Conceiving of a Different Plan: Walking away from the USD
+## Conceiving of a Different Plan: Walking Away from Global Reserve Currency
 
 Marc didn't just want my criticisms in this response. He challenged us to come up with a better plan. So here's mine:
 
