@@ -17,7 +17,7 @@ Is the problem money? That seems hard to believe ...
 
 Marc doesn’t believe money is the problem. After all, the events of the past weeks have shown that the US can (attempt to) mobilize trillions of dollars of resources when backed against a wall.
 
-Unfortunately, this misses the point. The problem isn’t the _quantity_ of money. It’s the _quality_ and nature of our money. Specifically, its is the fact that the US Dollar is _not only_ our national currency, but it is also the world’s global reserve currency. Why is that important? Well, let me take you back to the 18th century and the writings of a famous economic thinker named Richard Cantillon.
+Unfortunately, this misses the point. The problem isn’t the _quantity_ of money. It’s the _quality_ and nature of our money. Specifically, its the fact that the US Dollar is _not only_ our national currency, but it is also the world’s global reserve currency. Why is that important? Well, let me take you back to the 18th century and the writings of a famous economic thinker named Richard Cantillon.
 
 ## Richard Cantillon - A Monetary Theorist Ahead of His Time
 
