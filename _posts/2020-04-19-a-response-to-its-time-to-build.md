@@ -1,4 +1,4 @@
-In a recently published and widely read [article](https://a16z.com/2020/04/18/its-time-to-build/), [Marc Andreessen](https://twitter.com/pmarca) issued a sort of “call-to-arms”, for us to stop twiddling our thumbs and to start building real, impactful things. I LOVE the spirit in which this essay was written —  I believe whole-heartedly that we need to focus on being a nation of builders.
+In a recently published and widely read [article](https://a16z.com/2020/04/18/its-time-to-build/), [Marc Andreessen](https://twitter.com/pmarca) issued a sort of “call-to-arms”, for America to stop twiddling its thumbs and to start building real, impactful things. I LOVE the spirit in which this essay was written — I believe whole-heartedly that we need to focus on being a nation of builders. If you haven't read it already, I encourage you to.
 
 Still, in the article, Marc offers a challenge to those that disagree with his diagnosis, and the actions that should be taken.
 
@@ -23,7 +23,7 @@ Unfortunately, this misses the point. The problem isn’t the _quantity_ of mone
 
 [Richard Cantillon](https://en.wikipedia.org/wiki/Richard_Cantillon) was an 18th century Irish-French economist, banker, entrepreneur, and writer. One of his few surviving [works](https://mises.org/library/essay-economic-theory-0) is “[An Essay on Economic Theory](https://mises.org/library/essay-economic-theory-0)”, in which Cantillon lays out one of the first complete treaties on economics. It also happens to be one of the earliest essay on monetary theory.
 
-In one particular chapter, Cantillon describes a phenomena that he saw play out with the Spanish and the Portuguese during the previous two centuries (15th and 16th) that has incredible importance to today. 
+In one particular chapter, Cantillon describes a phenomena that he saw play out with the Spanish and the Portuguese during the previous two centuries (16th and 17th) that has incredible importance to today. 
 
 Specifically, Cantillon describes how the Spanish, via the gold mines in the new world, and the Portuguese, via gold mines in Brazil, _impoverished themselves_ with the flood of new hard money coming from their mines. Ironically, by supplying lots of new hard money, the mines drove up prices for the _artisan, creative class_ (a.k.a., Marc's "builders") in favor of a rentier class of financiers that were closer to the source of the new money. The increase in prices eventually _drove out_ the artisan creative class, as goods could be produced cheaper elsewhere and imported (a.ka., 'Made in China').
 
